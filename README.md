@@ -11,7 +11,7 @@ Para autenticarte en la API, puedes usar las siguientes credenciales enviando un
     "mobile_phone": "1234567890",
     "password": "password"
 }
-
+```
 ## Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente en tu entorno:
