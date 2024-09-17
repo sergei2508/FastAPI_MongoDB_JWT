@@ -2,7 +2,7 @@
 
 Este proyecto es una API basada en FastAPI y MongoDB que utiliza JWT (JSON Web Tokens) para la autenticación de usuarios. Está diseñada para facilitar la gestión de usuarios, protegiendo endpoints con autenticación segura mediante tokens JWT.
 
-Puedes probar los endpoints directamente en la [API desplegada aquí](https://https://app-p970.onrender.com/api/v1/users).
+Puedes probar los endpoints directamente en la [API desplegada aquí](https://app-p970.onrender.com/api/v1/users).
 
 Para autenticarte en la API, puedes usar las siguientes credenciales enviando una solicitud `POST` al endpoint `/users/login` con el siguiente cuerpo JSON:
 
