@@ -33,7 +33,7 @@ git clone https://github.com/sergei2508/FastAPI_MongoDB_JWT_API.git
 ### 2. Navegar al directorio de despliegue del proyecto
 
 ```bash
-cd deployment/
+cd FastAPI_MongoDB_JWT_API/
 ```
 
 ### 3. Configurar las variables de entorno
