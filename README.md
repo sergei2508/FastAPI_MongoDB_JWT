@@ -112,5 +112,3 @@ Este proyecto ha sido construido utilizando las siguientes tecnologías y herram
 - **JWT (JSON Web Tokens):** Estándar para la autenticación segura basada en tokens.
 
 --- 
-
-Ahora tienes el enlace de la API desplegada correctamente agregado al README.
